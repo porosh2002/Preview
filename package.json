@@ -1,8 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
-  "homepage": "https://porosh2002.github.io/Preview",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@stripe/react-stripe-js": "^1.2.1",
     "@stripe/stripe-js": "^1.11.0",
@@ -22,8 +21,6 @@
     "validator": "^13.1.17"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
