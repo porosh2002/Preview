@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Preview/static/css/main.81681690.chunk.css",
+    "main.js": "/Preview/static/js/main.a85b8271.chunk.js",
+    "main.js.map": "/Preview/static/js/main.a85b8271.chunk.js.map",
+    "runtime-main.js": "/Preview/static/js/runtime-main.07a62edb.js",
+    "runtime-main.js.map": "/Preview/static/js/runtime-main.07a62edb.js.map",
+    "static/js/2.9c451dc0.chunk.js": "/Preview/static/js/2.9c451dc0.chunk.js",
+    "static/js/2.9c451dc0.chunk.js.map": "/Preview/static/js/2.9c451dc0.chunk.js.map",
+    "static/js/3.b49bde84.chunk.js": "/Preview/static/js/3.b49bde84.chunk.js",
+    "static/js/3.b49bde84.chunk.js.map": "/Preview/static/js/3.b49bde84.chunk.js.map",
+    "static/js/4.c20bb08b.chunk.js": "/Preview/static/js/4.c20bb08b.chunk.js",
+    "static/js/4.c20bb08b.chunk.js.map": "/Preview/static/js/4.c20bb08b.chunk.js.map",
+    "static/js/5.f8d3c6eb.chunk.js": "/Preview/static/js/5.f8d3c6eb.chunk.js",
+    "static/js/5.f8d3c6eb.chunk.js.map": "/Preview/static/js/5.f8d3c6eb.chunk.js.map",
+    "static/js/6.3a09a3bd.chunk.js": "/Preview/static/js/6.3a09a3bd.chunk.js",
+    "static/js/6.3a09a3bd.chunk.js.map": "/Preview/static/js/6.3a09a3bd.chunk.js.map",
+    "static/js/7.0f63e3fa.chunk.js": "/Preview/static/js/7.0f63e3fa.chunk.js",
+    "static/js/7.0f63e3fa.chunk.js.map": "/Preview/static/js/7.0f63e3fa.chunk.js.map",
+    "index.html": "/Preview/index.html",
+    "precache-manifest.d0a2d701eacad8302da22b73850b2201.js": "/Preview/precache-manifest.d0a2d701eacad8302da22b73850b2201.js",
+    "service-worker.js": "/Preview/service-worker.js",
+    "static/css/main.81681690.chunk.css.map": "/Preview/static/css/main.81681690.chunk.css.map",
+    "static/js/2.9c451dc0.chunk.js.LICENSE.txt": "/Preview/static/js/2.9c451dc0.chunk.js.LICENSE.txt",
+    "static/js/5.f8d3c6eb.chunk.js.LICENSE.txt": "/Preview/static/js/5.f8d3c6eb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Preview/static/media/bg_sports_default.ebafb27e.jpg",
+    "static/media/error.svg": "/Preview/static/media/error.1e9cb671.svg",
+    "static/media/ss.png": "/Preview/static/media/ss.d244b5e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07a62edb.js",
+    "static/js/2.9c451dc0.chunk.js",
+    "static/css/main.81681690.chunk.css",
+    "static/js/main.a85b8271.chunk.js"
+  ]
+}
