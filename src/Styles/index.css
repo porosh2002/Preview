@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Baloo 2", cursive;
+  letter-spacing: 0.5px;
+  list-style: none;
+  text-decoration: none;
+}
+body {
+  background-color: #343a40;
+  color: #fff;
+}
+/* Center */
+.CenterAbs {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.CenterFlex {
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+/* Logo */
+.LogoLink {
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  color: #00fa9a;
+}
+@media screen and (min-width: 1100px) {
+  .LogoLink {
+    font-size: 25px;
+  }
+  .LogoIcon {
+    font-size: 50px;
+  }
+}
+@media screen and (max-width: 1099px) {
+  .LogoLink {
+    font-size: 20px;
+  }
+  .LogoIcon {
+    font-size: 35px;
+  }
+}
