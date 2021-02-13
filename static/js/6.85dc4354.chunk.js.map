@@ -1,0 +1,1 @@
+{"version":3,"sources":["Pages/Error.js"],"names":["Error"],"mappings":"uGAAA,+DAEe,SAASA,IACtB,OACE","file":"static/js/6.85dc4354.chunk.js","sourcesContent":["import React from 'react'\n\nexport default function Error() {\n  return (\n    <div>\n      \n    </div>\n  )\n}\n"],"sourceRoot":""}
